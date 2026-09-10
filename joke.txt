@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "the joke is " 
+=======
+LOUD AND FUNNY
+>>>>>>> 7037a8d (second part of the joke is done)
